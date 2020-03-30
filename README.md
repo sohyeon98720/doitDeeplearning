@@ -5,7 +5,7 @@
 ----------------
 
 교재는 1~9강으로 구성되어있으며, 실습부분은 3강부터 있다.            
-<img src='https://user-images.githubusercontent.com/47767202/77242961-8f3f7580-6c47-11ea-822e-1f329fb4d828.jpg' , width=50%>
+<img src="https://user-images.githubusercontent.com/47767202/77242961-8f3f7580-6c47-11ea-822e-1f329fb4d828.jpg" width="50%">
 
 
 
